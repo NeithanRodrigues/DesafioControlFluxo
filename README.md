@@ -8,7 +8,7 @@
 
 4 - cd local/do/DesafioControleFluxo
 
-5 - cd ControleFluxo/src
+5 - cd DesafioControleFluxo/src
 
 6 - java Contador
 
