@@ -10,9 +10,7 @@
 
 5 - cd ControleFluxo/src
 
-6 - javac Contador.java
-
-7 - java Contador
+6 - java Contador
 
 Obs: No passo 4 altere o "local/do/arquivoDesafioControleFLuxo" para o nome da pasta em que está o repositório "DesafioControleFluxo".
 
